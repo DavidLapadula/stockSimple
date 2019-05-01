@@ -1,8 +1,6 @@
 ## Stock Simple
 This is a Full Stack web application that provides a simple and inituive tool for people to engage with the stock market. Users can sign up, track stocks, set up watchlists, test investment strategies, and view the latest news from the stock market. 
 
-***
-
 ## Motivation
 We decided to make this app because we found that so many of the popular stock related web and mobile applications are complicated and not accessible to the average user. Furthermore, few of these applications allow users to test their investment strategies without using actual money. For these reasons we decided to make a web application thats strips away unnecessary information and allows for interaction with the stock market with no headaches. 
 
