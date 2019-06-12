@@ -94,5 +94,4 @@ If you want to see it live, check it out  [here](https://stocksimple.herokuapp.c
 * Hat tip to our instructor, the TA's at the University of Toronto and several of our colleagues who had the kindness to share their knowledge with us along the way! 
 * Inspiration and thanks to [stackoverflow](https://stackoverflow.com/).
 
-- 
 
